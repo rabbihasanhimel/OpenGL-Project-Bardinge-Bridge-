@@ -1,4 +1,4 @@
-# OpenGL-Project-Bardinge-Bridge-
+# OpenGL-Project-Hardinge-Bridge
 Computer Graphics Course Final Project
 
 
